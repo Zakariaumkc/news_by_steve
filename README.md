@@ -7,6 +7,9 @@ https://docs.google.com/presentation/d/1QOPQ3zSF8JSKI8Mxhzbs7WzVjIGt1Q6Z1Lw15t6d
 ## Video Link
 https://youtu.be/tw_-gDjGODM
 
+## Project Report
+https://docs.google.com/document/d/1N_yL019ICmceVt6TulrN3to2b8B_ae7NMO3kDOk1SuA/edit
+
 # Introduction
 
 # Implementation
